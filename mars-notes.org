@@ -1,0 +1,25 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Mars Notes
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/mars/mars-notes.org
+:Created:   2017-06-30T17:10@Prek Leap (11.642600N-104.919210W)
+:ID:        12883d8d-6e84-470e-8ff2-ab8413615923
+:VER:       552089465.691106036
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:TKE6-6107
+:Class:     deploy
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
