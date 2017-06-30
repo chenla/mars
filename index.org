@@ -23,4 +23,4 @@
 
 
  - [[./mars-overview.org][overview]]
- - [[./mars-notes.org][notes]]]
+ - [[./mars-notes.org][notes]]
