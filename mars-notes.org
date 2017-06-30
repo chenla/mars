@@ -23,3 +23,136 @@
 [[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+
+#+begin_quote
+“ Designing protocols that work across vast distances like planets
+makes it possible for people around the Earth that are in distant
+areas far away from the data center to connect as easily and nicely as
+people in the nice vast cities like this one. This is what we call the
+interplanetary principle. Design things for planets — planetary
+scale — and you will do very well on Earth.”
+
+-- Juan Benet
+#+end_quote
+
+* Introduction
+
+ - [[http://caseyexaustralia.blogspot.com/2017/05/a-roadmap-to-industrially-self.html?m=1][A roadmap to an industrially self-sufficient Mars base in the minimum time]]
+ - [[http://www.caseyhandmer.com/home/mars][Mars is Hard]] | Casey Handmer
+ - [[https://plus.google.com/+CaseyHandmer][Casey Handmer]] | Google+
+
+
+We will not be concerning ourselves with getting to mars, initial
+survival on mar or building and maintaining a settlement.  We start
+where Musk's first stage finishes and he is now ferrying hundreds of
+thousands of people to the planet.
+
+#+BEGIN_QUOTE
+  In many ways, the transportation problem of getting us to
+  Mars, over the long term is the smallest problem that we
+  will be facing.  Transplanting civilization to Mars will
+  not be a matter of setting up quonset huts with hydroponic
+  farms with people in bubble helmeted suits riding in dune
+  buggies off the cover of Amazing Stories or an inspiring
+  Robert McCall mural on the wall of the Air and Space
+  Museum on the Washington Mall.
+
+  These are visions of exploration and technology, they
+  embody the bold confident optimisim of the Apollo program.
+  But ultimately they are visions of research stations.
+  It's what you have at McMurdy Station in Antarctica.  And
+  ultimately it's a thoroughly depressing vision if you
+  start thinking about living in these paintings over years
+  and decades.  It doesn't age well, it's existence, not
+  life.
+
+  We need to start thinking in terms of building a permanent
+  civilization on Mars, a home, albeit very different from
+  Earth, but still a place that you would want to live.  For
+  that we need to be thinking as architects, and community
+  planners.
+
+  It will need to be able to cut the cord with Earth, as
+  soon as possible if not sooner.  That will mean not only
+  building computer chips, but sourcing and refining the
+  silica.  It won't only be building systems that produce
+  breathable air, potable water and sewage, but public
+  utilities that are paid for by something like a tax
+  system.
+
+  We don't need to transplant the "American way of life" or
+  any other such nonsense.  Rather we need to provide the
+  initial conditions for an open economy, with commerce,
+  manufacturing and a government to emerge as the colony
+  becomes a community.  We have to encourage local
+  businesses and startups not just work for the inevitable
+  multinationals from the home world who will sponsor many
+  parts of the early stages and inevitably pump large
+  amounts of money to stake out large corporate claims on
+  the planet.
+
+  - I lost the reference to this quote...
+#+END_QUOTE
+
+* Musk's Million on Mars
+
+A million people is not just a million people -- it must include a
+whole ecosystem that is complex enough to be able to self-correct,
+that includes everything from microbes to mega-fauna -- this will be
+the biggest challenge -- the biosphere experiments are many orders of
+magnitude too simple.  It's not just creating a pressurized breathable
+atmosphere, that is easy at small scales, but it won't scale.  That
+was the whole point of Robinson's critique of generation ships -- that
+the ecosystems in the ships will be too simple to be antifragile --
+there are too many things that will knock them out of wack and cascade
+and collapse.  At scale it will all end very badly with the approaches
+we are using at the moment.  The sum of our parts is larger than
+ourselves, from the microbes in our guts to fucking knows what else.
+We need to work out how to bring earth with us everywhere we go and we
+simply don't know how to do it.
+
+
+* Notes
+
+** Making Humans a Multi-Planetary Species
+:PROPERTIES:
+:INTERLEAVE_PDF: ~/proj/chenla/deploy/lib/musk--making_humans_a_interplanetary_species-2017.pdf
+:END:
+
+
+#+begin_src bibtex
+@Article{Musk_2017,
+  author       = {Musk, Elon},
+  title	   = {Making Humans a Multi-Planetary Species},
+  year	   = 2017,
+  volume       = 5,
+  number       = 2,
+  month	   = {Jun},
+  pages	   = {46–61},
+  issn	   = {2168-0264},
+  doi	   = {10.1089/space.2017.29009.emu},
+  url	   = {http://dx.doi.org/10.1089/space.2017.29009.emu},
+  journal      = {New Space},
+  publisher    = {Mary Ann Liebert Inc}
+}
+#+end_src
+
+*** Notes for page 1
+:PROPERTIES:
+:interleave_page_note: 1
+:END:
+
+Musk's goal is to build up a permanent population on Mars of one
+million people over 40-100 years.  This will require 10,000 trips
+carrying 100 people each.
+
+*** Notes for page 13
+:PROPERTIES:
+:interleave_page_note: 13
+:END:
+
+More notes
+
+
