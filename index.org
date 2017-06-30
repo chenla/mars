@@ -1,0 +1,26 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/mars/index.org
+:Created:   2017-06-30T16:59@Prek Leap (11.642600N-104.919210W)
+:ID:        4cde8b0c-1436-4e16-941c-5af8f439361d
+:VER:       552088853.657652085
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:GIJ3-3650
+:Category:  deploy
+:Entity:    toc
+:Status:    wip 
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+* Table of Contents
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+ - [[./mars-overview.org][overview]]
+ - [[./mars-notes.org][notes]]]
