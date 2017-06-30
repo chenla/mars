@@ -62,6 +62,8 @@ chains?
    mars
 
 
+* Functional Requirements
+
 ** It must be distributed
  - heavy industry -- 99% automated and even remote
  - everything else is a fabric of cottage industry that
@@ -72,8 +74,10 @@ chains?
    basket...
 ** It will only work on mars if it works on earth
  - 80% of what you do on mars is no different on earth, just
-   in extreme cold and indoors and largely underground.
- - build a mars civilization in every backyard on earth
+   in extreme cold with a closed atmosphere and largely
+   underground.
+ - build a mars civilization in every town and village on
+   earth
  - people can start shops and join guilds on earth and then
    take what they learn and then to do it on mars.
  - the system will be it's own blockchain based economy,
