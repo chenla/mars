@@ -25,6 +25,27 @@
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 
+* Preface
+
+#+begin_quote
+*Kirk Lazarus*: Everybody knows you never go full retard.
+
+*Tugg Speedman*: What do you mean?
+
+*Kirk Lazarus*: Check it out. Dustin Hoffman, 'Rain Man,'
+look retarded, act retarded, not retarded. Counted
+toothpicks, cheated cards. Autistic, sho'. Not retarded. You
+know Tom Hanks, 'Forrest Gump.' Slow, yes. Retarded,
+maybe. Braces on his legs. But he charmed the pants off
+Nixon and won a ping-pong competition. That ain't
+retarded. Peter Sellers, "Being There." Infantile,
+yes. Retarded, no. You went full retard, man. Never go full
+retard. You don't buy that? Ask Sean Penn, 2001, "I Am Sam."
+Remember? Went full retard, went home empty handed...
+
+-- Tropic Thunder | 2008
+#+end_quote
+
 * Introduction
 
 
