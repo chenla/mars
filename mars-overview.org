@@ -27,3 +27,254 @@
 
 * Introduction
 
+
+
+ - first step towards a long now
+ - a distributed civilization
+ - mars is a part of that
+ - never go full retard
+
+first step is:
+
+ - build platform and infrastructure that people can get
+   excited about, join and start building -- in their own
+   backyard -- this will become a sustainable network of
+   people, ideas, and shops that give people a livelihood
+   that works towards a antifragile multiplanet civilization
+
+then we can go retard -- but not full retard.
+
+what is the minimum viable product for SNOT supply-production
+chains?
+
+---
+
+** Four Stages
+
+ - get there, establish base
+ - sustainable settlement
+ - distributed civilization
+ - terraform
+** Civilization is about specialties
+** automation -- ai & robots
+** we need an economic model
+ - funding must be based on economic model on earth and on
+   mars
+
+
+** It must be distributed
+ - heavy industry -- 99% automated and even remote
+ - everything else is a fabric of cottage industry that
+   leverages ai and robotics to massively multiply
+   production
+ - we'll be living inside terrariums -- which are
+   vulnerable to disease -- can not put everything in one
+   basket...
+** It will only work on mars if it works on earth
+ - 80% of what you do on mars is no different on earth, just
+   in extreme cold and indoors and largely underground.
+ - build a mars civilization in every backyard on earth
+ - people can start shops and join guilds on earth and then
+   take what they learn and then to do it on mars.
+ - the system will be it's own blockchain based economy,
+   establish crypto-credit unions to save money for the trip
+   and to get established on mars
+** everything is agriculture
+ - growing an atmosphere, not air production
+ - monocultures the exception not the rule
+ - building ecosystems, not farms
+ - bugs on mars
+ - grow everything - not just food and air - learn to love
+   grass
+ - animals are not a luxury -- even megafuana -- remember we
+   are backing up earth folks, biodiversity is critical
+ - replicate multiple climates and bioregions in different
+   settlements -- mars is noah's ark with space suits.
+ - gmo starts from day one
+ - everyone grows stuff, everywhere - no exceptions
+** leave all baggage behind
+ - plant no flags
+ - no earth-based territories or borders
+ - earth corporations must assimilate
+ - you're all martians now -- that's your new identity
+ - assimilate or don't come
+ - no room for national identities
+ - no room for ideologies (social, religious, economic)
+ - no food or clothing ideologies allowed
+ - no splinter settlements (at least in the first million)
+** open designs & knowledge
+ - nothing is proprietary
+ - generative designs and plans
+ - build structures and things that live
+** nothing is disposable
+ - build to last
+ - interchangable modular everything
+ - build to be repairable
+ - gracefully degrade
+** getting good at living inside
+ - we're going to be stuck inside for hundreds of years so
+   we better get really really good at it.
+ - we have to get really really good at tunneling
+** stage everything in antarctica
+ - if it can't work there it won't work on mars -- not only
+   materially sustainable, but economically.
+ - fail fast and often 
+ - everyone going to mars must first be done in antarctica
+   for anywhere from 6 months to 2 years -- assimilation
+   starts there.
+ - includes all fuel production, growing food, making
+   atmosphere, medicine, electronics, heavy industry etc.
+** Education comes first and last
+** don't wait to start building solar civilization
+ - mars is not an end, it is a gateway to the solar system
+ - build heavy industry in asteroid belt
+ - get good at moving big rocks and ice
+ - process insitu while it's being moved
+ - learn to live in big rocks as well as you do on mars or earth
+
+
+* Economic model for funding and colonizing the solar system 
+
+ - mars is not an end in itself -- the long term goal is to
+   make mankind and our civilization anti-fragile which
+   means we need to become a distributed civilization.
+   keeping today's model and transplanting it to mars will
+   not achieve this in a meaningful way -- then we will have
+   two fragile planetary civilizations.  we need to make
+   civilization on both planets and where ever else man goes
+   to be as distributed and resilient as possible.
+
+ - baldwin says it comes down to distance -- and cost of
+   moving goods, ideas and people.  when cost of
+   transporting goods became cheap with the steam revolution
+   it triggered the first globalization revolution, with ICT
+   became cheap, ideas (including money) could move anywhere
+   on the planet for essentially nothing -- in 1990 this
+   triggered what Baldwin called the second unbundling which
+   we are now at the tail end of -- which split production
+   from where the knowledge was to where labour was cheap,
+   with knowledge still largely being kept by the original
+   G7 countries and labour provided by I7. So transport is
+   cheap, moving ideas is cheap but moving people is still
+   expensive.
+
+ - automation replaces many of the functions required by moving
+   people by replacing middlemen -- in effect, don't move
+   people, the network replaces the functions that required
+   all of those people to move around and meet in person in
+   the first place -- this dramatically cuts costs and
+   savings no longer go to middlemen but to make smaller
+   producers more competitive -- this will reduce income
+   inequality which creates instability and leads to
+   collapse.  Most of the rich today are middlemen.
+
+ - AI + robotics will eventually replace most cheap labor,
+   and that subverts the way things work today -- but it's
+   not obvious what the result will be.  the I7 now has
+   know-how that the G7 no longer has.  When cheap labour is
+   not longer needed, China doesn't revert back to it's
+   place before globalization -- they now own a substantial
+   amount of know-how, but not all of it.  They could simply
+   become another G7 nation.  I don't see G7
+   reindustrializing. But China won't replace the G7 either
+   -- something different will happen.  I always suspected
+   that China desperately wanted to be a 20th century
+   superpower, but took too long to get their shit
+   together.  The debt crises may play an important part in
+   this in both China and Thailand.  Long term, the States
+   and China will break up which will be both good and bad.
+   I hope that the kind of distributed production system I
+   envision could provide a soft landing for the parts of
+   both countries that aren't rich.
+
+ - today know-how is tied up in proprietary IP which rights
+   holders will not want to become distributed because it
+   effectively takes away the advantages of controlling that
+   knowledge.
+
+ - most of this knowledge, since WWII has been for processes
+   at scale -- which actually doesn't work at small scales
+   as is.  For a truly distributed system, this knowledge
+   needs to be adapted to small scale production processes.
+   and the only way this can work is if it is all open
+   source.  In fact, not just open source but aggressively
+   open source.  So in effect, Richard Stallman was right.
+
+ - this will have the effect of opening up production chains
+   to developing economies who have been left out of second
+   wave globalization.  So, this is perhaps the only means
+   of flattening the spikes.
+
+ - mars colonization requires a funding model, and an
+   economic model for what is being built on mars.
+
+ - trade between mars and earth will not be viable in the
+   foreseeable future, so investment in mars that is based
+   on economic return to earth won't work.  There is no
+   equiv of England and America, where America had land and
+   no people and England had people and no land, that could
+   kick start trans-atlantic trade.  So we need a funding
+   model which is purely based on emigration.  America was
+   settled by self-funded individuals looking to make a new
+   home, not by states or corporations looking to expand.
+
+ - if the cost of emigration is reasonable, then this is
+   possible, but only if there is an infrastructure to
+   provide more than the cost of a ticket.  we will need
+   education, training, and staging and a means of
+   producing what will be taken to mars to establish
+   emigrants.  Families and communities need to support this
+   back on earth and provide a stable base for sending those
+   who will go to mars.
+
+ - kickstarting a new stage of globalization that will make
+   the world less flat can make it possible to provide the
+   infrastructure needed to move out into the solar system
+   in numbers for us to become a multi-planet species.
+
+
+ - it works like this: people join the network, they choose
+   a specialty, and the bioregion they want to practice it
+   in.  they learn the trade and get funded to start a shop,
+   the IP for that shop is provided for and protected by a
+   guild which is an organization that managed open source
+   code, designs, processes and information for a knowledge
+   domain, if you start a shop in that domain, the guild
+   helps you get off the ground, provides education, access
+   to financing and maintains quality control.  In return
+   the shop contributes back innovations, and some profits
+   to keep the guild going.
+
+ - shops and guilds contribute to credit unions, that will
+   save money for younger members to be able to start their
+   own shops -- and fund people who want to emigrate and
+   start shops on mars.
+
+ - an important part of this is that a certain portion of
+   all profits go to invest in things that the distributed
+   model isn't good at -- large scale infrastructure,
+   Heinlein's Long Term Foundation doing blue sky pure
+   research, and long term projects like SpaceX -- this will
+   be done using a scopic framework.
+
+ - treat the network as a state, with rights, obligations
+   and rules -- it is a state with no nation and no
+   territory which can exist as an overlay on top of the
+   existing nation-state system, but could eventually
+   replace it, if or when nation states fail. it is not
+   there to compete with the state, and will provide many
+   benifits to states, but will not be there to prop up
+   those in power. tricky to pull that off without being
+   seen as a threat to existing power structures. pragmatism
+   is key here
+
+ - initially there needs to be a staging area where those
+   who are working in shops can transition to moving to and
+   starting shops on mars. that will likely be antarctica.
+   build a self-sustaining city and civilization there --
+   which will be somewhat similar to mars except there is
+   an atmosphere.  Start a shop in antarctica for two years
+   and see if you can handle living underground in a closed
+   ecosystem and then, when ready, sell your shop to
+   newcomers and move your shop to mars.
+
