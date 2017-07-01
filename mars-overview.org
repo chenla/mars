@@ -223,7 +223,27 @@ there aren't enough people to maintain the number of
 specialties required to sustain civilization at the previous
 levels.
 
+Few, perhaps none of us can comprehend how fast it will
+happen when it happens.  That's how exponential growth
+works.
 
+#+begin_quote
+French children are told a story in which they imagine
+having a pond with water lily leaves floating on the
+surface. The lily population doubles in size every day and
+if left unchecked will smother the pond in 30 days, killing
+all the other living things in the water. Day after day the
+plant seems small and so it is decided to leave it to grow
+until it half-covers the pond, before cutting it back. They
+are then asked on what day half-coverage will occur. This is
+revealed to be the 29th day, and then there will be just one
+day to save the pond. (From Meadows et al. 1972)
+
+-- [[https://en.wikipedia.org/wiki/Exponential_growth][Exponential growth]] - Wikipedia
+#+end_quote
+
+That 29th day could happen in our lifetime, and easily
+within our children's lifetime.
 
 
  - mars is not an end in itself -- the long term goal is to
