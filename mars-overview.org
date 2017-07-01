@@ -250,11 +250,12 @@ change is only the tip of the iceberg.
 
  - aspirational consumerism
  - shortcut culture -- with getting rich as a means to an end.
- - cost disease
+ - cost disease -- [[http://slatestarcodex.com/2017/02/09/considerations-on-cost-disease/][Considerations On Cost Disease]] | Slate Star Codex
  - knowledge tidal pools
  - tribalism
  - nation states & the sovereignty trap
-
+ - institutional & personal risk aversion
+ - property as a commodity
 
 
 So is there anything that can be done to get through this
@@ -264,7 +265,37 @@ carbon emissions and switch to renewable energy sources.
 
 
 
+ - social contract
+ - build expertise
+ - property as a commons
+ - build things to last
+ - build things to be repaired and upgraded
+ - credentials not issued by teaching instution
+ - familys and extended families, not individuals
 
+#+begin_quote
+The best proposal I’ve ever seen for returning college costs
+to baseline is a very simple one: make “college degree” a
+prohibited employment discrimination category. Issue tests,
+require professional certifications, fine; but the generic
+sheepskin would no longer be something the employer could
+ask about. I would be willing to bet the impact on the
+private economy would be nearly zero but higher education
+costs would collapse in a decade. (Initially, of course,
+businesses would be looking for every extra-legal way they
+could get around the prohibition, if for no other reason
+than that the hiring mangers are so conditioned to think of
+the college degree as the dividing line between civilization
+and the savages. But as more people started to slip through
+without degrees, and people saw there wasn’t a sudden talent
+apocalypse, I bet this would change a lot.)
+
+-- [[http://slatestarcodex.com/2017/02/09/considerations-on-cost-disease/][Considerations On Cost Disease]] | Slate Star Codex
+#+end_quote
+
+
+
+-----
 
 
  - mars is not an end in itself -- the long term goal is to
