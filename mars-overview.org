@@ -263,15 +263,14 @@ without collapse or sinking into a Dark Age or worse?  In a
 word, yes, but it will not happen by simply cutting our
 carbon emissions and switch to renewable energy sources.
 
-
-
- - social contract
+ - social contract -- along japanese model
  - build expertise
- - property as a commons
+ - property as a commons -- 
  - build things to last
  - build things to be repaired and upgraded
  - credentials not issued by teaching instution
  - familys and extended families, not individuals
+ 
 
 #+begin_quote
 The best proposal I’ve ever seen for returning college costs
