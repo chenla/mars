@@ -1,5 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
+#+TITLE: Mars | TOC
 :PROPERTIES:
 :CUSTOM_ID: 
 :Name:      /home/deerpig/proj/chenla/mars/index.org
@@ -8,15 +9,16 @@
 :VER:       552088853.657652085
 :GEO:       48P-491193-1287029-15
 :BXID:      proj:GIJ3-3650
-:Category:  deploy
+:Class:     docs
 :Entity:    toc
 :Status:    wip 
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
-* Table of Contents
+* Mars | Table of Contents
+
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-docs-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
