@@ -98,20 +98,65 @@ thousands of people to the planet.
 
 * Musk's Million on Mars
 
-A million people is not just a million people -- it must include a
-whole ecosystem that is complex enough to be able to self-correct,
-that includes everything from microbes to mega-fauna -- this will be
-the biggest challenge -- the biosphere experiments are many orders of
-magnitude too simple.  It's not just creating a pressurized breathable
-atmosphere, that is easy at small scales, but it won't scale.  That
-was the whole point of Robinson's critique of generation ships -- that
-the ecosystems in the ships will be too simple to be antifragile --
-there are too many things that will knock them out of wack and cascade
-and collapse.  At scale it will all end very badly with the approaches
-we are using at the moment.  The sum of our parts is larger than
-ourselves, from the microbes in our guts to fucking knows what else.
-We need to work out how to bring earth with us everywhere we go and we
-simply don't know how to do it.
+A million people is not just a million people -- it must
+include a whole ecosystem that is complex enough to be able
+to self-correct, that includes everything from microbes to
+mega-fauna -- this will be the biggest challenge -- the
+biosphere experiments are many orders of magnitude too
+simple.  It's not just creating a pressurized breathable
+atmosphere, that is easy at small scales, but it won't
+scale.  That was the whole point of Robinson's critique of
+generation ships -- that the ecosystems in the ships will be
+too simple to be antifragile -- there are too many things
+that will knock them out of wack and cascade and collapse.
+At scale it will all end very badly with the approaches we
+are using at the moment.  The sum of our parts is larger
+than ourselves, from the microbes in our guts to fucking
+knows what else.  We need to work out how to bring earth
+with us everywhere we go and we simply don't know how to do
+it.
+
+
+* BFR the second iteration
+
+Today, Musk gave his second presentation on the BFR.  The
+rocket is a little smaller than what he presented last year,
+but the plan is /far/ more detailed and it looks far more
+real and realistic than I think anyone had dared hope.
+
+The first flight of two cargo BFR's is scheduled for the
+2022 window, with four BFR's making the trip two years later
+two for cargo and two for people.
+
+He also made a pitch, showing how the system could be used
+for the Moon as well as making it possible for people to fly
+anywhere on the planet in less than 40 minutes.  The last is
+interesting because of what he didn't say.  He needs for BFR
+to be profitable and pay for at least the initial wave of
+mars missions. He's looking for ways for BFR to make money.
+
+Since Mars windows are two years apart, it means that each
+ship has a limited number of flights over a 30 year life
+span.  If he can make money taking people around the planet,
+and using the BFR to supply ISS and bring really big
+payloads into orbit very cheaply then this could bring in a
+substantial amount of revenue.
+
+Next, he said that once Falcon Heavy is flying and stable,
+that they will stop production of Falcon 9 and Falcon
+Heavies and keep reflying the existing rockets until the BFR
+is ready to fly.  Let that sink in for a moment.  He's
+betting the company and the revenue he's making now, to
+switch to the BFR and eventually even bigger rockets!
+
+He knows he's going to have real competition from Blue
+Origin, and he wants to move beyond what they are planning
+to do.  Bezos said he isn't going after interplanetary
+markets and focus on industry and perhaps the moon.
+Building a space industry is as ambitious as what SpaceX is
+doing.  Between the two of them, we have a chance at my
+Roadmap for Mankind plan.
+
 
 
 * Notes
