@@ -24,3 +24,11 @@
 
 
 Material related to building a distributed civlization on mars.
+
+
+--- 
+
+*NOTE*: The primary repo is @ [[http://git.chenla.org/hoard/mars]] 
+Please submit pull requests and issues there.  A read
+only-mirror is maintained @ [[https://github.com/chenla/mars]]
+
